@@ -5,7 +5,7 @@ html {
 #monkey {
   position: absolute;
   top: 550px;
-  right: 120px;
+  right: -120px;
 }
 
 /* Write your solution here */
